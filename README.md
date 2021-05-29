@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anuzach7
-- 🌱 I’m a software engineer 7 years of experience working on eb applications
+- 🌱 I’m a software engineer with 7 years of experience working on web applications
 
 
 
